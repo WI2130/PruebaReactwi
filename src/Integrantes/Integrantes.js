@@ -20,12 +20,12 @@ export function Integrantes() {
         <>
             <div className="row my-5 justify-content-center " >
                 <div className="col-12 col-md-4 zoom " >
-                    <img src="https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/zion3.jpeg?alt=media&token=8dc44509-1d0a-414a-87ce-a998671abdb3" alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__rollIn wow " data-bs-toggle="collapse" data-bs-target="#collapseExample" />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/cantante%20brian.webp?alt=media&token=f2cfbe02-8b4f-49f7-bbfa-84a36d4de246" alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__rollIn wow " data-bs-toggle="collapse" data-bs-target="#collapseExample" />
                 </div>
 
                 <div className='col-12 col-md-4 align-self-center border-start animate__animated animate__fadeInRight ' >
 
-                    <h2> Zion </h2>
+                    <h2> Brian johanson </h2>
                     <h3> Cantante </h3>
 
                 </div>
@@ -53,13 +53,13 @@ export function Integrantes() {
 
                 <div className='col-12 col-md-4 align-self-center border-end text-end animate__animated  animate__fadeInLeft' >
 
-                    <h2> Lennox </h2>
-                    <h3> Cantante </h3>
+                    <h2> Angus young </h2>
+                    <h3> Guitarrista </h3>
 
                 </div>
 
                 <div className="col-12 col-md-4 zoom " >
-                    <img src="https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/Lennox2.jpg?alt=media&token=f1888777-fac5-4851-a1eb-9d4ec625965a " alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__rollIn wow " data-bs-toggle="collapse" data-bs-target="#collapseExample" />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/angus.jpg?alt=media&token=ba7e55f9-b026-4cce-8465-6dff08016e8f " alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__rollIn wow " data-bs-toggle="collapse" data-bs-target="#collapseExample" />
                 </div>
 
             </div>

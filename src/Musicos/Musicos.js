@@ -6,15 +6,15 @@ export function Musicos(params) {
 
     let Musicos = [
         {
-            nombre: "Zion",
+            nombre: "Brian johanson",
             rol: "Cantante",
-            url: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/conci1.jpg?alt=media&token=63d68363-fe3c-465e-b9e9-e9d42afbc39a"
+            url: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/cantante%20brian.webp?alt=media&token=f2cfbe02-8b4f-49f7-bbfa-84a36d4de246"
 
         },
         {
-            nombre: "lennox",
-            rol: "Cantante",
-            url: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/conci2.jpg?alt=media&token=fab8c589-e633-43b8-93af-e1d4f4a4bdb9"
+            nombre: "Angus young",
+            rol: "Guitarrista",
+            url: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/angus.jpg?alt=media&token=ba7e55f9-b026-4cce-8465-6dff08016e8f"
 
         }
     ]
@@ -22,34 +22,34 @@ export function Musicos(params) {
     let conciertosMemorables = [
 
         {
-            fecha: "El 4 De Febrero De 2017",
-            pais: "En el Coliseo De Puerto Rico",
-            descripcion: "Zion & Lennox (El Concierto) (Recap) Coliseo Puerto Rico 2017",
-            foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/puerto%20rico%202017.jpg?alt=media&token=7e22312f-a214-42dc-874c-c145c9200834"
+            fecha: "El 4 De Febrero De 2015",
+            pais: "ESpaña",
+            descripcion: "Comienzo del concierto de AC/DC en la gira Rock or Bust, en el estadio Vicente Calderón en 2015",
+            foto: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/concierto1.jpg?alt=media&token=a073494f-6961-4317-9add-836fb7ca7e3e"
         },
         {
-            fecha: "EL 12 De Agosto De 2015",
-            pais: "Medellin",
-            descripcion: "Zion Y Lennox en Feria de Las Flores, Medellin 2015 · Zion & Lennox",
-            foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/Medellin%202015.jpg?alt=media&token=3511a876-8170-4719-abc9-e1cdc8e47064"
+            fecha: "EL 12 De Agosto De 2018",
+            pais: "Alemania",
+            descripcion: "La banda australiana AC/DC se presentó el jueves 25 de junio en el estadio Olímpico de Berlín, en Alemania, en el marco de la gira europea que actualmente realiza.",
+            foto: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/concierto3.jpg?alt=media&token=9a75d92a-0038-4003-9392-bc67da8171e9"
         },
         {
             fecha: " El 27 De Febrero De 2018",
-            pais: "VIÑACHILE",
-            descripcion: "ZION Y LENNOX #VIÑA2018 - Festival de Viña del Mar 2018",
-            foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/VI%C3%91A2018.jpg?alt=media&token=6db43dde-47b0-4a79-9105-894751342e23"
+            pais:"Lisboa",
+            descripcion: " A la vista de lo que la historia del rock nos ha enseñado, no es una novedad que AC/DC tenga que buscar un sustituto a los mandos del micrófono. Pero lo que sucedió en 2016, cuando Axl Rose (Guns N' R﻿oses) fue su vocalista durante una gira, es un caso digno de estudio ©copyright los40.com",
+            foto: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/concierto2.jpg?alt=media&token=8f0b40e5-ce84-4ecd-9cfe-cb46b894fc7b"
         },
         {
             fecha: "El 2 De Octubre De 2019",
-            pais: "La Pampilla De Coquimbo",
-            descripcion: "Zion y Lennox live en Coquimbo, La Pampilla",
-            foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/Coquimbo%2C%20La%20Pampilla.jpg?alt=media&token=242966f3-14e4-4801-83a1-93c2cfdcb5a5"
+            pais: "italia",
+            descripcion: "AC/DC está de vuelta, justo cuando el mundo más los necesita. Seguramente es la banda de rock más querida, esa que logra congregar a abuelos con nietos, unos clásicos que garantizan agotar las entradas de los estadios en horas. Cuando empezaron, a mediados de los setenta, escuchaban a los australianos los malotes; hoy, se disfrutan en familia",
+            foto: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/concierto4.jpg?alt=media&token=3f1641f7-bffd-41fd-955f-dbb909cbf6ec"
         },
         {
-            fecha: "404",
-            pais: "Error 404",
-            descripcion: "Error 404",
-            foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojitosbr.appspot.com/o/Error404.webp?alt=media&token=eeb38ba6-5e60-4257-80ce-b1e7fe78f37c"
+            fecha: "15 de marzo de 2013",
+            pais: "España",
+            descripcion: "El guitarrista de AC/DC Angus Young, en un concierto en Barcelona. A lo largo del espectáculo, va quitándose ropa hasta quedarse en pantalón corto.",
+            foto: "https://firebasestorage.googleapis.com/v0/b/pruebareactwi.appspot.com/o/concierto5.jpg?alt=media&token=77a81c1c-80d9-4b35-8679-03075e259f55"
         }
 
 
